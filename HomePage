@@ -1,12 +1,62 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
+<style>
+body {
+  background-color: pink;
+}
+h1 {
+	  font-size: 2.5em;
+	  text-align: center;
+  	color: #cc0066;
+}
+p {
+  	color: red;
+}
+
+ul {
+	  background-color: black;
+  	list-style-type: none;
+  	margin: 0;
+  	padding: 0;
+  	overflow: hidden;
+}
+
+li {
+  	float: left; /* start with "homepage tab" or let "float: right" if you want it to start with "Get Involved" tab; */
+}
+
+li a {
+  	display: block;
+  	border-right: 2px solid white; /* add a line on the right side of each tab */
+  	color: white;
+  	padding: 20px 100.65px; /* the first number is padding on top/bottom, the second is padding on right/left */
+  	text-align: center;
+  	text-decoration: none;
+}
+
+li a:hover {
+  background-color: #cc0066;
+  text-decoration: underline;
+}
+</style>
 </head>
+
 <body>
 
-<h1>Women's Marches</h1>
-<p><a href="https://womensmarch.com/">Click this link to see the Women's March Homepage.</a></p>
+<h1>Women's Rights</h1>
+
+<ul>
+	<li><a href="#home">Homepage</a></li>
+	<li><a href="#education">Education for Women</a></li> 
+	<li><a href="#pay">Equal Pay</a></li> 
+	<li><a href="#history">History</a></li>
+	<li><a href="#involved">Get Involved</a></li>  
+</ul>
+
+<h2>Education for Women</h2>
+<h3>Part I: Schooling</h3>
+<p>This is a short paragraph about schooling.</p>
 
 </body>
 </html>

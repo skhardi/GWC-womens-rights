@@ -65,20 +65,22 @@ li a:hover {
 
 <ul>
 	<li><a href="#home">Homepage</a></li>
-	<li><a href="#education">Education for Women</a></li> 
-	<li><a href="#pay">Equal Pay</a></li> 
+	<li><a href="Education.html">Education for Women</a></li> 
+	<li><a href="EqualPay.html">Equal Pay</a></li> 
 	<li><a href="#history">History</a></li>
 	<li><a href="#involved">Get Involved</a></li>  
 </ul>
 
-<h2>Education for Women</h2>
-<h3>Part I: Schooling</h3>
-<p>This is a short paragraph about schools. Women at school......</p>
+<h2>Equal Pay for Women</h2>
+<h3>The Differences Between a Man and a Woman in the Workfield</h3>
+<p>A woman working full time earns 81.6 cents for every dollar a man working full time earned on average, while women of colour earn even less. So what would happen if  instead of raising the minimum wage for women we were to lower the minimum wage for men? We need to make the minimum wage the same as each others even if it means to raise the  minimum wage women or lowering the men's minimum wage.</p>
+<p>Women have the responsibility for unpaid work at home. Which includes taking care of children and the elderly. women spend between 2 to 10 more hours a day than men caring for children, the elderly or the sick.</p>
+<p>In parts of the world, women may face legal restrictions to working. In Finca they state that “The World Bank found that in 100 countries, laws still exist that restrict the type of work women can do. In some countries, for example, women must get permission from their husbands before pursuing a new job.”</p>
 
 
-<h3>Part II: Cost of School for Girls</h3>
-<p>This is a short paragraph about cost of schooling. Girls going to school pay......</p>
-
+<h3>Citations</h3>
+<p><a href ="www.businessinsider.com">“Insider.”</a>Business Insider, https://www.businessinsider.com. Accessed 11 Apr. 2021.</p>
+<p><a href = "https://womenemployed.org/minimum-wage/">“Minimum Wage.”</a> Women Employed, https://womenemployed.org/minimum-wage/. Accessed 11 Apr. 2021.</p>
 
 </body>
 </html>
